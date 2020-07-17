@@ -1,11 +1,13 @@
 # ESP8266 Basic Web Interface ExampleLED
 
 Instructions on how to make it work can be found here:  
-https://pulsartronic.com  
-https://pulsartronic.com  
-https://pulsartronic.com  
-https://pulsartronic.com  
-https://pulsartronic.com  
+https://pulsartronic.com/item.php?id=1  
+https://pulsartronic.com/item.php?id=2  
+https://pulsartronic.com/item.php?id=3  
+
+
+An example can be found here  
+https://pulsartronic.com/section/ESP8266Basic/demo/
 
 
 # Contribute
